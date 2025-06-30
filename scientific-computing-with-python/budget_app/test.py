@@ -1,4 +1,4 @@
-from budget import Category, create_spend_chart
+from budget_app import Category, create_spend_chart
 
 # Create budget categories
 food = Category("Food")
