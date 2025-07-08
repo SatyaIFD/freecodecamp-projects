@@ -7,7 +7,7 @@ This repository contains all the certification projects **and** other instructed
 
 ## 🏆 Certification
 
-I earned the [Scientific Computing with Python Certification (v7)](https://www.freecodecamp.org/certification/satya91/scientific-computing-with-python-v7)!  
+I earned the [Scientific Computing with Python Certification (v7)](https://www.freecodecamp.org/learn/scientific-computing-with-python/)!  
 ✅ [View My Certificate](https://www.freecodecamp.org/certification/satya91/scientific-computing-with-python-v7)
 
 ---
