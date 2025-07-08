@@ -30,7 +30,7 @@ This mimics a **Monte Carlo method** — running experiments over and over to ge
 
 ---
 
-## 🚀 How It Works
+🚀 How It Works
 
 ```python
 hat = Hat(blue=5, red=4, green=2)
