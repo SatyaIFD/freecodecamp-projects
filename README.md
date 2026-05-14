@@ -46,11 +46,5 @@ A huge thank you to the **FreeCodeCamp community** for creating such an amazing 
 
 ---
 
-🙌 Feedback & Future Plans
-
-I’m just getting started, so if you have tips or want to contribute, open an issue or PR!
-I plan to add Data Analysis, Machine Learning, and other curriculums soon.
-
----
 
 Thanks for checking out my progress! Stay tuned for more projects! 🎉🐍
